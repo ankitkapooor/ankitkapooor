@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning multiple subjects including AI, Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on projects based on NLP, or any other innovative ideas encompassing the concepts of AI and data science
 - 📫 email me at ankitkapoor0406.ak@gmail.com, or hit me up on my [LinkedIn profile](https://www.linkedin.com/in/ankitkapooor/)
+- :computer: Go **[here](https://github.com/ankitkapooor/ankitkapooor/blob/main/cv_example.ipynb)** to see the resume in action
 
 ~~~python
 class Ankit:
