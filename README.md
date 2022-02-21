@@ -7,6 +7,8 @@
 - :computer: Go **[here](https://github.com/ankitkapooor/ankitkapooor/blob/main/cv_example.ipynb)** to see the resume in action
 
 ~~~python
+#Resume
+
 class Ankit:
   def __init__(self):
     self.name = "Ankit Kapoor"
