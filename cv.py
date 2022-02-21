@@ -70,4 +70,4 @@ class Ankit:
           •	tarpaulin ceilings for slums during monsoon
           •	Member of Quizzards, the BPDC quiz group (2018-present)
       '''
-      return 'type help(extra) to see hobbies'
+      return 'type help(Ankit.extra) to see hobbies'
