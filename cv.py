@@ -5,8 +5,8 @@ class Ankit:
     self.gender = "Male"
     self.phone_number = 543030659
     self.email = "ankitkapoor0406.ak@gmai.com"
-    self.github = GitHub
-    self.linkedin = LinkedIn
+    self.github = "GitHub"
+    self.linkedin = "LinkedIn"
 
     skills = ["Python", "Java", "C", "HTML", "Json",
               "MySQL", "KERAS", "NUMPY", "TensotFlow",
@@ -33,7 +33,7 @@ class Ankit:
     #Project assistant for Websites & front end projects, Basic HTML/CSS, website debugging, #report writing
 
         }
-    return f'Company Name: {company_name}\nLocation: {organisations[company_name][0]}\nDate: {organisations[company_name][1]}'
+    return f'Company Name: {company_name}\nPosition: {organisations[company_name][0]}\nLocation: {organisations[company_name][1]}\nDate: {organisations[company_name][2]}'
 
   def project():
     project_list = [

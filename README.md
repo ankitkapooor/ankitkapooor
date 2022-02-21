@@ -6,8 +6,6 @@
 - 📫 email me at ankitkapoor0406.ak@gmail.com, or hit me up on my [LinkedIn profile](https://www.linkedin.com/in/ankitkapooor/)
 
 ~~~python
-#Resume
-
 class Ankit:
   def __init__(self):
     self.name = "Ankit Kapoor"
@@ -15,8 +13,8 @@ class Ankit:
     self.gender = "Male"
     self.phone_number = 543030659
     self.email = "ankitkapoor0406.ak@gmai.com"
-    self.github = GitHub
-    self.linkedin = LinkedIn
+    self.github = "GitHub"
+    self.linkedin = "LinkedIn"
 
     skills = ["Python", "Java", "C", "HTML", "Json",
               "MySQL", "KERAS", "NUMPY", "TensotFlow",
@@ -31,19 +29,19 @@ class Ankit:
 
     return f'School Name: {school_name}\nCourse: {school[school_name][0]}\nSpecialization: {school[school_name][1]}\nBoard: {school[school_name][2]}\nScore: {school[school_name][3]}\nYear: {school[school_name][4]}'
 
-    def work_experience(company_name):
+  def work_experience(company_name):
     organisations = {
     "SustVest": ["Front End Development Intern", "Dubai, UAE", "June 2021 - August 2021"],
 	#Project Intern for front end development, Coding in HTML/CSS, Figma, report writing
     "Ascent Business Solutions": ["RPA Intern", "Nagpur, India", "May 2020 - June 2020"],
-    	#Project Intern for RPA (Robotic Process Automation) Projects, basic coding, report #writing
+    #Project Intern for RPA (Robotic Process Automation) Projects, basic coding, report #writing
     "Infinite Space": ["Content Management Intern", "Nagpur, India", "July 2018"],
-    	#Assistance with organization of events (seminars, guest talks etc.), handling social #media posts, writing passages for posts/blogs.
+    #Assistance with organization of events (seminars, guest talks etc.), handling social #media posts, writing passages for posts/blogs.
     "Ascent Business Solutions": ["Front End Development Intern", "Nagpur, India", "July 2018"]
-    	#Project assistant for Websites & front end projects, Basic HTML/CSS, website debugging, #report writing
+    #Project assistant for Websites & front end projects, Basic HTML/CSS, website debugging, #report writing
 
         }
-    return f'Company Name: {company_name}\nLocation: {organisations[company_name][0]}\nDate: {organisations[company_name][1]}'
+    return f'Company Name: {company_name}\nPosition: {organisations[company_name][0]}\nLocation: {organisations[company_name][1]}\nDate: {organisations[company_name][2]}'
 
   def project():
     project_list = [
