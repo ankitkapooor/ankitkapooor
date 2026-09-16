@@ -1,91 +1,161 @@
-- 👋 Hi, I’m Ankit Kapoor
-- :mortar_board: I'm studying at BITS Pilani, Dubai
-- 👀 I’m interested in [programming](https://github.com/ankitkapooor?tab=repositories), [philosophy](https://drive.google.com/file/d/1QkIRKiBdjOmPYoiXYucs81Yi2WrMXGFr/view?usp=sharing), [literature and creative writing](https://www.instagram.com/kapooooooooor/)
-- 🌱 I’m currently learning multiple subjects including AI, Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on projects based on NLP, or any other innovative ideas encompassing the concepts of AI and data science
-- 📫 email me at ankitkapoor0406.ak@gmail.com, or hit me up on my [LinkedIn profile](https://www.linkedin.com/in/ankitkapooor/)
-- :computer: Go **[here](https://github.com/ankitkapooor/ankitkapooor/blob/main/cv_example.ipynb)** to see the resume in action
+<div align="center">
 
-~~~python
-#Resume
+<img src="./assets/hero.svg" width="100%" alt="Ankit Kapoor — AI Strategy, Applied AI, Decision Systems" />
 
-class Ankit:
-  def __init__(self):
-    self.name = "Ankit Kapoor"
-    self.age = 22
-    self.gender = "Male"
-    self.phone_number = 543030659
-    self.email = "ankitkapoor0406.ak@gmai.com"
-    self.github = "GitHub"
-    self.linkedin = "LinkedIn"
+<br/>
 
-    skills = ["Python", "Java", "C", "HTML", "Json",
-              "MySQL", "KERAS", "NUMPY", "TensotFlow",
-              "Natural Language Processing", "AI", "ML"]
+### I build tools for decisions that are hard to make.
 
-  def education(school_name):
-    school = {}
+**AI Strategy · Applied AI · Decision Systems**
 
-    school["BITS Pilani, Dubai"] = ["B.E.", "Computer Science", "N/A", "7.46", "2018 - 2020"]
-    school["Hislop College"] = ["Class XII", "PCM", "Maharashta State", "78%", "2018"]
-    school["Bhavans BP Vidya Mandir"] = ["Class X", "N/A", "CBSE", "96%", "2016"]
+USC Marshall MBA '28 · Former ML & Conversational AI Engineer
 
-    return f'School Name: {school_name}\nCourse: {school[school_name][0]}\nSpecialization: {school[school_name][1]}\nBoard: {school[school_name][2]}\nScore: {school[school_name][3]}\nYear: {school[school_name][4]}'
+[Portfolio](https://ankitkapoor.me) · [LinkedIn](https://www.linkedin.com/in/ankitkapooor/) · [Projects](#selected-work)
 
-  def work_experience(company_name):
-    organisations = {
-    "SustVest": ["Front End Development Intern", "Dubai, UAE", "June 2021 - August 2021"],
-	#Project Intern for front end development, Coding in HTML/CSS, Figma, report writing
-    "Ascent Business Solutions": ["RPA Intern", "Nagpur, India", "May 2020 - June 2020"],
-    	#Project Intern for RPA (Robotic Process Automation) Projects, basic coding, report #writing
-    "Infinite Space": ["Content Management Intern", "Nagpur, India", "July 2018"],
-    	#Assistance with organization of events (seminars, guest talks etc.), handling social #media posts, writing passages for posts/blogs.
-    "Ascent Business Solutions": ["Front End Development Intern", "Nagpur, India", "July 2018"]
-    	#Project assistant for Websites & front end projects, Basic HTML/CSS, website debugging, #report writing
+</div>
 
-        }
-    return f'Company Name: {company_name}\nPosition: {organisations[company_name][0]}\nLocation: {organisations[company_name][1]}\nDate: {organisations[company_name][2]}'
+---
 
-  def project():
-    project_list = [
-      "MedBot using GPT-2 (Sem VII)",
-        #Created a smart chatbot that implements NLG through a distilled version of GPT-2. It can #hold conversations and generate replies based on medical #queries. Ongoing part of my #Thesis.
-      "Smart Chatbot in Python (Self, 2021)",
-        #A smart chatbot that uses NLP and neural network to communicate with the user. It is #completely voice activated and can scrape Google and #YouTube.
-      "Smart Discord Bot (Self, 2021)",
-        #A smart chatbot hosted on Discord, uses NLP to perform #basic human communication. It #also uses the bot also has multiple functions like displaying movie recommendations, #Wikipedia articles, jokes/memes.
-      "NLG Bot in python (Self, 2022)",
-        #Created a smart chatbot that implements NLG through a distilled version of GPT-2. It can #hold conversations through replies it generates by itself #based on user queries.
-      "Heart Disease Prediction (Sem VII)",
-        #Co-authored a research paper which explores and compares various machine learning #algorithms used to predict heart disease in patients.
-      "Movie Recommender System (Sem VII)",
-        #This is a movie recommender system that works on the basis of the KNN (K Nearest #Neighbors) algorithm. Recommends 20 movies based on user input #and user ratings.
-      "BigF Compiler (Sem VI)",
-        #BigF is a small step I took in designing my own computer programming language. Converts #BigF (my language) to C code.
-      "Wordle Solver (Self, 2022)"
-        #Programmed an automated way to tackle the popular puzzle #game called Wordle.
-      "Collatz Conjecture (Self, 2021)"
-        #Coded a program in Java and Python which uses the Collatz conjecture to procedurally #generate patterns.
-        ]
-    return '\n'.join(project for project in project_list)
+### What I'm interested in
 
-  def extra():
-      '''
-          •	Written and published a fiction novel named “The Book of Destiny”, published by Notion Press Chennai in 2015
-          •	Taught rural and underprivileged children in a village near the district Tons with INME in 2017
-          •	Participated in Google Hashcode, 2019
-          •	Completed a course on Philosophy on Coursera
-          •	Wrote for Perspectives, the BPDC magazine in 2018
-          •	Completed online courses for ML & AI, and English creative writing from MyCaptain in 2017
-          •	Volunteered with Rotary Club of Nagpur North to distribute supplies and helped create makeshift
-          •	tarpaulin ceilings for slums during monsoon
-          •	Member of Quizzards, the BPDC quiz group (2018-present)
-      '''
-      return 'type help(Ankit.extra) to see hobbies'
+My background is in machine learning and conversational AI. My current work sits one layer above the model itself:
 
-~~~
+**Where should AI be deployed? What evidence should a decision rely on? How do you make assumptions explicit? And how do you turn messy information into something a decision-maker can actually use?**
 
-<!---
-ankitkapooor/ankitkapooor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build analytical products at the intersection of **technology, strategy, finance, and decision science** — usually around questions where the answer is less interesting than the reasoning that produces it.
+
+---
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Market Entry War Room
+
+<a href="https://market-entry-war-room-production.up.railway.app/ui/">
+<img src="./assets/market-entry.png" width="100%" alt="Market Entry War Room" />
+</a>
+
+**Where should a company expand next?**
+
+A decision-support system for comparing US metropolitan markets using public Census data, explicit strategic assumptions, adjustable weighting, and Monte Carlo sensitivity analysis.
+
+**Decision problem:** Market selection  
+**Methods:** Scoring models · ACS data · Sensitivity analysis · Monte Carlo
+
+[Live product](https://market-entry-war-room-production.up.railway.app/ui/) · [Repository](https://github.com/ankitkapooor/market-entry-war-room)
+
+</td>
+<td width="50%" valign="top">
+
+### Catalog Underwriter
+
+<img src="./assets/catalog-underwriter.png" width="100%" alt="Catalog Underwriter" />
+
+**What can public evidence tell us about the value of a music catalog?**
+
+An underwriting workbench that reconstructs public catalog evidence, makes economic assumptions explicit, models cash flows, and tests valuation across scenarios and sensitivities.
+
+**Decision problem:** Asset underwriting  
+**Methods:** DCF · Scenario analysis · Concentration · Sensitivity analysis
+
+[Repository](https://github.com/ankitkapooor/catalog-underwriter)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Narrative vs Numbers
+
+<a href="https://narrative-vs-numbers-production.up.railway.app/">
+<img src="./assets/narrative-vs-numbers.png" width="100%" alt="Narrative vs Numbers" />
+</a>
+
+**Does management allocate capital in line with the strategy it communicates?**
+
+A research tool that extracts strategic claims from SEC filings and tests them against structured financial evidence.
+
+**Decision problem:** Strategy credibility  
+**Methods:** SEC filings · XBRL · LLM extraction · Financial analysis
+
+[Live product](https://narrative-vs-numbers-production.up.railway.app/) · [Repository](https://github.com/ankitkapooor/narrative-vs-numbers)
+
+</td>
+<td width="50%" valign="top">
+
+### What I'm building next
+
+More tools that turn ambiguous strategic questions into explicit decision models.
+
+Areas I'm especially interested in:
+
+**AI transformation**  
+**Corporate strategy**  
+**Alternative assets**  
+**Competitive intelligence**  
+**Decision support**
+
+[See everything →](https://ankitkapoor.me)
+
+</td>
+</tr>
+</table>
+
+---
+
+## The intersection I work at
+
+| Strategy | AI & Engineering | Decision Science |
+| :--- | :--- | :--- |
+| Market entry | LLM applications | Scenario analysis |
+| AI transformation | Agents & RAG | Sensitivity analysis |
+| Business models | Data pipelines | Explicit assumptions |
+| Capital allocation | Applied ML | Evidence quality |
+| Competitive analysis | Product engineering | Valuation |
+
+The technical system matters. So does the business question it is being built to answer.
+
+---
+
+## Background
+
+Before business school, I worked in **machine learning and conversational AI**, building systems across NLP, generative AI, and enterprise knowledge applications.
+
+I studied Computer Science at **BITS Pilani, Dubai**, where my academic work included research in Natural Language Generation and generative AI before the current LLM wave.
+
+I'm now pursuing my **MBA at USC Marshall**, focusing on the intersection between technical feasibility and strategic value: how emerging technology changes business models, operating models, capital allocation, and competitive advantage.
+
+---
+
+<details>
+<summary><strong>Earlier AI / ML work</strong></summary>
+
+<br/>
+
+My older repositories document how I got here — NLP systems, conversational AI, recommendation systems, ML experiments, and generative-language projects built during university.
+
+A few of them:
+
+- **MedBot** — generative conversational system built on distilled GPT-2 for medical-domain dialogue
+- **Villager** — open-domain conversational generation using GPT-2 and Topical-Chat
+- **Luna** — NLP-based conversational assistant
+- **Heart Disease Prediction** — comparative ML research project
+- **Collatz Conjecture** — procedural generative-art experiment
+
+I keep these repositories public because they show the technical foundation underneath the work I'm doing today.
+
+</details>
+
+---
+
+<div align="center">
+
+### Build the model. Question the assumptions. Make the decision legible.
+
+[ankitkapoor.me](https://ankitkapoor.me) · [LinkedIn](https://www.linkedin.com/in/ankitkapooor/)
+
+</div>

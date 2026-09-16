@@ -1,0 +1,45 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="420" fill="#101214"/>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#25292E" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="820" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101214" stop-opacity="0"/>
+      <stop offset="1" stop-color="#101214" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="790" width="810" height="420" fill="url(#grid)" opacity="0.9"/>
+  <rect x="790" width="810" height="420" fill="url(#fade)"/>
+
+  <rect x="64" y="58" width="88" height="4" rx="2" fill="#FF5A36"/>
+  <text x="64" y="115" fill="#A8A39A" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="3.2">ANKIT KAPOOR</text>
+  <text x="64" y="205" fill="#F4F0E8" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2.8">AI STRATEGY</text>
+  <text x="64" y="275" fill="#F4F0E8" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2.8">DECISION SYSTEMS</text>
+  <text x="64" y="326" fill="#A8A39A" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="1.2">APPLIED AI · STRATEGY · FINANCE</text>
+
+  <text x="64" y="382" fill="#6E737A" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="1.5">LOS ANGELES  ·  USC MARSHALL MBA '28</text>
+
+  <!-- analytical motif -->
+  <path d="M915 318 C1010 286, 1056 298, 1132 238 C1196 188, 1262 205, 1320 146 C1377 88, 1455 112, 1528 70"
+        stroke="#FF5A36" stroke-width="4" fill="none"/>
+  <path d="M915 334 C1003 320, 1080 345, 1150 291 C1214 242, 1293 258, 1368 212 C1438 169, 1495 181, 1542 151"
+        stroke="#F4F0E8" stroke-opacity="0.28" stroke-width="2" fill="none"/>
+
+  <g fill="#F4F0E8">
+    <circle cx="915" cy="318" r="5"/>
+    <circle cx="1132" cy="238" r="5"/>
+    <circle cx="1320" cy="146" r="5"/>
+    <circle cx="1528" cy="70" r="5"/>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#A8A39A" letter-spacing="1">
+    <text x="906" y="357">SIGNAL</text>
+    <text x="1110" y="215">MODEL</text>
+    <text x="1300" y="124">DECISION</text>
+  </g>
+
+  <rect x="1510" y="360" width="26" height="26" rx="4" fill="#FF5A36"/>
+  <path d="M1518 373H1528M1523 368V378" stroke="#101214" stroke-width="2"/>
+</svg>
